@@ -3,7 +3,7 @@
 A growing collection of **Project Euler** problem solutions written in **Rust**, designed to explore mathematics, algorithms, and computational problem solving through efficient and reusable implementations. This repository serves both as a solution archive and as a practical environment for experimenting with mathematical programming, optimization techniques, and algorithmic reasoning.
 
 Project Euler problems emphasize **mathematical insight combined with efficient computation**, making them an excellent bridge between theoretical mathematics and real-world computer science.
-
+- **proofs in discussion :) :)** 
 ---
 
 ## Motivation
