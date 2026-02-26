@@ -1,0 +1,1 @@
+C:\Users\agboo\RustroverProjects\project_euler\target\debug\project_euler.exe: C:\Users\agboo\RustroverProjects\project_euler\src\internal.rs C:\Users\agboo\RustroverProjects\project_euler\src\main.rs

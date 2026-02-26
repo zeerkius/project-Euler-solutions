@@ -1,0 +1,8 @@
+[package]
+name = "project_euler"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libm = "0.2.15"
+itertools = "0.14.0"
